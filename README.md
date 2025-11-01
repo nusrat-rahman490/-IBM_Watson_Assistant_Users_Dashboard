@@ -95,13 +95,17 @@ The dataset contains **50 simulated users** with the following columns:
 ---
 
 ## 🔗 How to Run
-1. Clone the repository:
+1. ***Clone the repository:**
 ```bash
 git clone <repository-url>
-2. Install required Python packages:
+
+```
+2. ***Install required Python packages:***
 ```bash
 pip install pandas matplotlib openpyxl
-3. Load the dataset and run the analysis script:
+```
+
+3. ***Load the dataset and run the analysis script:***
 
   import pandas as pd
 import matplotlib.pyplot as plt
