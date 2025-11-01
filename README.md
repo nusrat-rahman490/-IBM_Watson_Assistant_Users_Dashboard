@@ -83,14 +83,6 @@ The dataset contains **50 simulated users** with the following columns:
 
 ---
 
-## 📝 Resume Bullet Points
-**AI-Powered Product Insights Dashboard for IBM Watson Assistant**
-- Built a Python-based analytics dashboard using pandas and matplotlib for 50+ simulated users to identify feature engagement trends  
-- Ranked features by composite engagement score and provided actionable recommendations to improve adoption and user satisfaction  
-- Analyzed monthly usage trends to inform product roadmap and enhance onboarding experience
-
----
-
 ## 📅 Project Timeline
 | **Week** | **Task** |
 |----------|----------|
