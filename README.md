@@ -105,7 +105,9 @@ git clone <repository-url>
 pip install pandas matplotlib openpyxl
 ```
 
-3. import pandas as pd
+3. ***import pandas as pd***
+
+```python
 import matplotlib.pyplot as plt
 
 
@@ -151,7 +153,7 @@ plt.ylabel("Engagement Score (%)")
 plt.xticks(rotation=30, ha="right")
 plt.tight_layout()
 plt.show()
-
+```
 ---
 
 ## 🏆 Skills Demonstrated:
