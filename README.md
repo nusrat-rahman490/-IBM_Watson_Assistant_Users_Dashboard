@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Product Insights Dashboard
+# 🤖  Product Insights Dashboard
 **Simulated Data Project — IBM Watson Assistant**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square) 
