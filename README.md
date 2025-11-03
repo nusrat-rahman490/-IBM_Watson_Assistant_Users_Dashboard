@@ -34,7 +34,7 @@ By completing this project, you will understand how to:
 | **Category** | **Tool** |
 |--------------|----------|
 | Programming Language | Python |
-| Data Manipulation | Pandas, Numpy |
+| Data Manipulation | Pandas |
 | Data Visualization | Matplotlib |
 | Dataset Format | Excel / CSV (Simulated Data) |
 | Environment | Jupyter Notebook / VS Code / Any Python IDE |
